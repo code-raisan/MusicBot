@@ -1,0 +1,11 @@
+# Node
+node_modules
+
+# NPM
+npm-error.log
+
+# Yarn
+yarn-error.log
+
+# TypeScript
+dist

@@ -1,0 +1,23 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon",
+    "build": "cd src && tsc"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.8.0",
+    "@discordjs/voice": "^0.11.0",
+    "@types/node": "^18.7.13",
+    "discord.js": "^14.3.0",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.1.0",
+    "libsodium-wrappers": "^0.7.10",
+    "tsc": "^2.0.4",
+    "typescript": "^4.7.4",
+    "ytdl-core": "https://github.com/GreepTheSheep/node-ytdl-core"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "ts-node": "^10.9.1"
+  }
+}
